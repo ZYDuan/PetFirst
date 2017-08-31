@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pettype">
+        <item> </item>
+        <item>狗</item>
+        <item>猫</item>
+        <item>鸟</item>
+        <item>龟</item>
+        <item>仓鼠</item>
+    </string-array>
+</resources>
